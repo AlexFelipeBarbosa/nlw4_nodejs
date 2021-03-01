@@ -1,11 +1,13 @@
 # 🚀 4º Edição da NLW (Next Level Week) da Rocketseat
 
 # 👨‍💻 Projeto
-Calculo de NPS (Net Promoter Score) 
+
+Calculo de NPS (Net Promoter Score)
 É uma métrica desenvolvida para medir os níveis de lealdade do cliente.
 De forma geral, a métrica avalia quanto o respondente recomenda uma determinada empresa, produto ou serviço para amigos, familiares ou colegas. A ideia é simples, se você gosta de usar um produto ou fazer negócios com uma determinada empresa, você deseja compartilhar essa experiência com outras pessoas, certo?
 
 # 🛠 Tecnologias
+
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -13,15 +15,16 @@ De forma geral, a métrica avalia quanto o respondente recomenda uma determinada
 - [Jest](https://jestjs.io/)
 - [Nodemailer](https://nodemailer.com/about/)
 
-
 ## :airplane: Conteúdo do curso:
-- [ ] <b>Aula 1 - Rumo ao próximo nivel</b>
+
+- [x] <b>Aula 1 - Rumo ao próximo nivel</b>
 - [ ] <b>Aula 2 - Banco de Dados</b>
 - [ ] <b>Aula 3 - Testando a nossa aplicação </b>
 - [ ] <b>Aula 4 - Envio de e-mail </b>
 - [ ] <b>Aula 3 - Finalizando nossa API com validações </b>
 
-### :dart: Status do Curso: 
+### :dart: Status do Curso:
+
 🚧 Em andamento 🚧:
 
 ### :mega: Link do curso:
