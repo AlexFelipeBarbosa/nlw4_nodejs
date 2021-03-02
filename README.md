@@ -18,7 +18,7 @@ De forma geral, a métrica avalia quanto o respondente recomenda uma determinada
 ## :airplane: Conteúdo do curso:
 
 - [x] <b>Aula 1 - Rumo ao próximo nivel</b>
-- [ ] <b>Aula 2 - Banco de Dados</b>
+- [x] <b>Aula 2 - Banco de Dados</b>
 - [ ] <b>Aula 3 - Testando a nossa aplicação </b>
 - [ ] <b>Aula 4 - Envio de e-mail </b>
 - [ ] <b>Aula 3 - Finalizando nossa API com validações </b>
