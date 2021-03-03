@@ -20,7 +20,7 @@ De forma geral, a métrica avalia quanto o respondente recomenda uma determinada
 - [x] <b>Aula 1 - Rumo ao próximo nivel</b>
 - [x] <b>Aula 2 - Banco de Dados</b>
 - [x] <b>Aula 3 - Testando a nossa aplicação </b>
-- [ ] <b>Aula 4 - Envio de e-mail </b>
+- [x] <b>Aula 4 - Envio de e-mail </b>
 - [ ] <b>Aula 3 - Finalizando nossa API com validações </b>
 
 ### :dart: Status do Curso:
