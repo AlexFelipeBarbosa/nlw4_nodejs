@@ -1,10 +1,18 @@
 # 🚀 4º Edição da NLW (Next Level Week) da Rocketseat
 
+<img alt="imagem da API" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw4_nodejs/main/assets/nlw4.png"> <br/>
+
+
+
+
 # 👨‍💻 Projeto
 
 Calculo de NPS (Net Promoter Score)
 É uma métrica desenvolvida para medir os níveis de lealdade do cliente.
 De forma geral, a métrica avalia quanto o respondente recomenda uma determinada empresa, produto ou serviço para amigos, familiares ou colegas. A ideia é simples, se você gosta de usar um produto ou fazer negócios com uma determinada empresa, você deseja compartilhar essa experiência com outras pessoas, certo?
+
+
+<img alt="imagem da API" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw4_nodejs/main/assets/email.png"> <br/>
 
 # 🛠 Tecnologias
 
@@ -17,6 +25,8 @@ De forma geral, a métrica avalia quanto o respondente recomenda uma determinada
 - [Ethereal](https://ethereal.email/)
 - [Handlebars](https://handlebarsjs.com/)
 - [Yup](https://github.com/jquense/yup)
+
+<img alt="imagem da API" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw4_nodejs/main/assets/fluxoApi.png"> <br/>
 
 ## :airplane: Conteúdo:
 
