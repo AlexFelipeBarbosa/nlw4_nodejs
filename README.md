@@ -14,18 +14,21 @@ De forma geral, a métrica avalia quanto o respondente recomenda uma determinada
 - [TypeORM](https://typeorm.io/#/)
 - [Jest](https://jestjs.io/)
 - [Nodemailer](https://nodemailer.com/about/)
+- [Ethereal](https://ethereal.email/)
+- [Handlebars](https://handlebarsjs.com/)
+- [Yup](https://github.com/jquense/yup)
 
-## :airplane: Conteúdo do curso:
+## :airplane: Conteúdo:
 
 - [x] <b>Aula 1 - Rumo ao próximo nivel</b>
 - [x] <b>Aula 2 - Banco de Dados</b>
 - [x] <b>Aula 3 - Testando a nossa aplicação </b>
 - [x] <b>Aula 4 - Envio de e-mail </b>
-- [ ] <b>Aula 5 - Finalizando nossa API com validações </b>
+- [x] <b>Aula 5 - Finalizando nossa API com validações </b>
 
-### :dart: Status do Curso:
+### :dart: Status:
 
-🚧 Em andamento 🚧:
+🚧 Concluído! 🚧:
 
 ### :mega: Link do curso:
 
